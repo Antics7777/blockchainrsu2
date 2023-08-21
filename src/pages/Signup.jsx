@@ -1,7 +1,6 @@
 import React from 'react'
 import styles from '../style'
 import { blc, googlepn } from '../assets'
-import { GoogleLogin } from 'react-google-login'
 import { Link } from 'react-router-dom'
 import { useState } from 'react'
 // import { useHistory } from 'react-router-dom';
